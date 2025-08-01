@@ -1,72 +1,74 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Portfólio Cleber Mantuano ⚡️
+> Um portfólio limpo, moderno e responsivo para Especialista em Marketing Digital!
 
-> https://varadbhogayata.github.io
+> https://www.conexaobuzios.com
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+## Sobre o Profissional 👨‍💼
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
-  </a>
-  </kbd>
-</p>
+**Cleber Mantuano** é um profissional com mais de 15 anos de experiência em atendimento, vendas, estoque, suporte técnico e marketing digital. Criador do site **www.conexaobuzios.com**, onde apresenta serviços de marketing digital, criação de sites, automações e soluções para pequenos negócios.
 
-:star: Star me on GitHub — it helps!
+### Localização 📍
+- **Endereço:** Búzios, Capão – RJ
+- **Contato:** cleberluiz.profissional@gmail.com
+- **WhatsApp:** (21) 99494-5474 (recado – Marcos)
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+## Características do Portfólio 📋
+⚡️ Totalmente Responsivo\
+⚡️ HTML5 & CSS3 Válidos\
+⚡️ Animação de digitação usando `Typed.js`\
+⚡️ Fácil de modificar\
+⚡️ Traduzido para Português\
+⚡️ Adaptado para Marketing Digital
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+## Seções 📚
+✔️ Sobre Mim\
+✔️ Experiência Profissional\
+✔️ Projetos de Marketing Digital\
+✔️ Habilidades Técnicas\
+✔️ Formação\
+✔️ Informações de Contato\
+✔️ Links para Redes Sociais
 
-## Sections 📚
-✔️ About me\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Education\
-✔️ Contact Info\
-✔️ Resume
+## Serviços Oferecidos 🚀
+- **Marketing Digital:** Google Ads, Facebook Ads, Instagram Ads
+- **Desenvolvimento Web:** WordPress, HTML, CSS, JavaScript
+- **E-commerce:** OpenCart, integração com gateways de pagamento
+- **Automação:** Chatbots, WhatsApp API, E-mail Marketing
+- **SEO:** Otimização para mecanismos de busca
+- **Suporte Técnico:** Fibra óptica, configuração de redes
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+## Projetos Destacados 💼
+1. **Conexão Búzios** - Site institucional e plataforma de serviços
+2. **E-commerce Personalizado** - Lojas virtuais para pequenos negócios
+3. **Campanhas Google Ads** - Gestão de publicidade digital
+4. **Chatbot WhatsApp** - Automação de atendimento
+5. **E-mail Marketing** - Campanhas de nutrição de leads
+6. **Otimização SEO** - Estratégias de posicionamento orgânico
 
-## Tools Used 🛠️
-* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
-* [<b>Materialize</b>](https://materializecss.com/) - A CSS framework to get Google's Material Design components.
-* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
+## Tecnologias Utilizadas 🛠️
+* **CMS:** WordPress, OpenCart
+* **Frontend:** HTML5, CSS3, JavaScript, Materialize CSS
+* **Marketing:** Google Ads, Facebook Ads, Google Analytics
+* **Automação:** WhatsApp API, Chatbots, E-mail Marketing
+* **Design:** Canva, Edição de Imagens
+* **SEO:** Google Search Console, Ferramentas de SEO
 
-## Contributing 💡
-#### Step 1
+## Redes Sociais 🌐
+- **Site:** [www.conexaobuzios.com](https://www.conexaobuzios.com)
+- **Portfólio:** [www.conexaobuzios.com/eu](https://www.conexaobuzios.com/eu)
+- **Instagram:** [@conexao.buzios](https://www.instagram.com/conexao.buzios)
+- **Facebook:** [cleber.luiiz.mantuano](https://www.facebook.com/cleber.luiiz.mantuano)
 
-- **Option 1**
-    - 🍴 Fork this repo!
+## Instalação & Deploy 📦
+- Clone o repositório e modifique o conteúdo do **index.html** conforme necessário
+- Adicione ou remova imagens do diretório `assets/img/` conforme sua necessidade
+- Recomendo usar [GitHub Pages](https://pages.github.com/) para deploy da forma MAIS FÁCIL
+- Para fazer deploy do seu website, primeiro crie um repositório GitHub com o nome `<seu-usuario-github>.github.io`
+- Faça push do código gerado para a branch `main` deste repositório
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+## Licença 📄
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](./LICENSE) para detalhes.
 
+---
 
-#### Step 2
-
-- **Build your code** 🔨🔨🔨
-
-#### Step 3
-
-- 🔃 Create a new pull request.
-
-## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+**Desenvolvido por Cleber Mantuano** - Especialista em Marketing Digital & Desenvolvimento Web
