@@ -239,9 +239,8 @@ ul.side-nav.fixed a {
   box-sizing: content-box;
   color: rgb(16, 202, 56);
   display: block;
-  line-height: 100%;
-  padding: 10px 0 12px;
-}
+  line-height:  1.6;  
+  padding: 10px 15px;
 
 ul.table-of-contents li.logo a.active, ul.table-of-contents li.logo a:hover {
   border: none;
